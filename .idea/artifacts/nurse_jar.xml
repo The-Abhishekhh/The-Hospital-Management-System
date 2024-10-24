@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nurse:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nurse_jar</output-path>
+    <root id="archive" name="nurse.jar">
+      <element id="module-output" name="nurse" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/nurse/NurseProject/dist/lib/json-20240303.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/nurse/NurseProject/dist/lib/gson-2.8.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/nurse/NurseProject/dist/lib/jcalendar-1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
